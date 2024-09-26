@@ -3,5 +3,6 @@ export default {
     tailwindcss: {},
     autoprefixer: {},
   },
+  silenceDeprecations: ["legacy-js-api"],
   "files.associations": { "*.scss": "postcss" },
 };
