@@ -1,8 +1,8 @@
 import { useHouseStore } from "@/services/store/useHouseStore";
-import RavenclawCrest from "@/assets/images/ravenclaw.png"; // Import your image
-import SlytherinCrest from "@/assets/images/slytherin.png"; // Import your image
-import HufflepuffCrest from "@/assets/images/hufflepuff.png"; // Import your image
-import GryffindorCrest from "@/assets/images/gryffindor.png"; // Import your image
+import RavenclawCrest from "@/assets/images/ravenclaw.png";
+import SlytherinCrest from "@/assets/images/slytherin.png";
+import HufflepuffCrest from "@/assets/images/hufflepuff.png";
+import GryffindorCrest from "@/assets/images/gryffindor.png";
 import { HouseOptions } from "@/utils/types";
 
 const HouseSelector = () => {
