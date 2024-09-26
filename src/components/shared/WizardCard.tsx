@@ -1,4 +1,4 @@
-import { LucideEye, LucideStar } from "lucide-react";
+import { LucideStar } from "lucide-react";
 import { Button } from "../ui/button";
 import { Card, CardDescription, CardHeader, CardTitle } from "../ui/card";
 import { WizardCharacter } from "../../utils/types";

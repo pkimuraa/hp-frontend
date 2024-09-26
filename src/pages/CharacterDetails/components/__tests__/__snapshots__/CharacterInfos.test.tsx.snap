@@ -1,0 +1,362 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CharacterInfos > matches the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="mb-10"
+  >
+    <div
+      class="w-full justify-between flex"
+    >
+      <h1
+        class="text-4xl"
+      >
+        Harry Potter
+      </h1>
+      <svg
+        class="lucide lucide-star cursor-pointer"
+        fill=""
+        height="24"
+        stroke="currentColor"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"
+        />
+      </svg>
+    </div>
+    <h4>
+      The Boy Who Lived
+    </h4>
+    <span
+      class="text-sm text-muted-foreground"
+    >
+      Wizard, Half-Blood
+    </span>
+  </div>
+  <div
+    class="flex flex-wrap md:flex-nowrap gap-4"
+  >
+    <div
+      class="md:w-1/2 w-full flex flex-col gap-4"
+    >
+      <div
+        class="flex gap-2"
+      >
+        <svg
+          class="lucide lucide-shield"
+          fill="none"
+          height="24"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"
+          />
+        </svg>
+         Gryffindor
+      </div>
+      <div
+        class="flex gap-2"
+      >
+        <svg
+          class="lucide lucide-heart"
+          fill="none"
+          height="24"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"
+          />
+        </svg>
+         Alive
+      </div>
+      <div
+        class="flex gap-2"
+      >
+        <svg
+          class="lucide lucide-graduation-cap"
+          fill="none"
+          height="24"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"
+          />
+          <path
+            d="M22 10v6"
+          />
+          <path
+            d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"
+          />
+        </svg>
+        Student
+      </div>
+      <div
+        class="flex gap-2"
+      >
+        <svg
+          class="lucide lucide-cat"
+          fill="none"
+          height="24"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M12 5c.67 0 1.35.09 2 .26 1.78-2 5.03-2.84 6.42-2.26 1.4.58-.42 7-.42 7 .57 1.07 1 2.24 1 3.44C21 17.9 16.97 21 12 21s-9-3-9-7.56c0-1.25.5-2.4 1-3.44 0 0-1.89-6.42-.5-7 1.39-.58 4.72.23 6.5 2.23A9.04 9.04 0 0 1 12 5Z"
+          />
+          <path
+            d="M8 14v.5"
+          />
+          <path
+            d="M16 14v.5"
+          />
+          <path
+            d="M11.25 16.25h1.5L12 17l-.75-.75Z"
+          />
+        </svg>
+        Stag
+      </div>
+      <div
+        class="flex gap-2"
+      >
+        <svg
+          class="lucide lucide-baby"
+          fill="none"
+          height="24"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M9 12h.01"
+          />
+          <path
+            d="M15 12h.01"
+          />
+          <path
+            d="M10 16c.5.3 1.2.5 2 .5s1.5-.2 2-.5"
+          />
+          <path
+            d="M19 6.3a9 9 0 0 1 1.8 3.9 2 2 0 0 1 0 3.6 9 9 0 0 1-17.6 0 2 2 0 0 1 0-3.6A9 9 0 0 1 12 3c2 0 3.5 1.1 3.5 2.5s-.9 2.5-2 2.5c-.8 0-1.5-.4-1.5-1"
+          />
+        </svg>
+        31/07/1980
+      </div>
+    </div>
+    <div
+      class="md:w-1/2 w-full flex flex-col gap-4"
+    >
+      <div
+        class="flex gap-2"
+      >
+        <svg
+          class="lucide lucide-wand-sparkles"
+          fill="none"
+          height="24"
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="m21.64 3.64-1.28-1.28a1.21 1.21 0 0 0-1.72 0L2.36 18.64a1.21 1.21 0 0 0 0 1.72l1.28 1.28a1.2 1.2 0 0 0 1.72 0L21.64 5.36a1.2 1.2 0 0 0 0-1.72"
+          />
+          <path
+            d="m14 7 3 3"
+          />
+          <path
+            d="M5 6v4"
+          />
+          <path
+            d="M19 14v4"
+          />
+          <path
+            d="M10 2v2"
+          />
+          <path
+            d="M7 8H3"
+          />
+          <path
+            d="M21 16h-4"
+          />
+          <path
+            d="M11 3H9"
+          />
+        </svg>
+         Wand
+      </div>
+      <div
+        class="ml-8"
+      >
+        <p
+          class="flex gap-2 mb-2"
+        >
+          <svg
+            class="lucide lucide-bolt"
+            fill="none"
+            height="24"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"
+            />
+            <circle
+              cx="12"
+              cy="12"
+              r="4"
+            />
+          </svg>
+           Phoenix feather
+        </p>
+        <p
+          class="flex gap-2 mb-2"
+        >
+          <svg
+            class="lucide lucide-wand"
+            fill="none"
+            height="24"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M15 4V2"
+            />
+            <path
+              d="M15 16v-2"
+            />
+            <path
+              d="M8 9h2"
+            />
+            <path
+              d="M20 9h2"
+            />
+            <path
+              d="M17.8 11.8 19 13"
+            />
+            <path
+              d="M15 9h.01"
+            />
+            <path
+              d="M17.8 6.2 19 5"
+            />
+            <path
+              d="m3 21 9-9"
+            />
+            <path
+              d="M12.2 6.2 11 5"
+            />
+          </svg>
+          Holly
+        </p>
+        <p
+          class="flex gap-2 mb-2"
+        >
+          <svg
+            class="lucide lucide-ruler"
+            fill="none"
+            height="24"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M21.3 15.3a2.4 2.4 0 0 1 0 3.4l-2.6 2.6a2.4 2.4 0 0 1-3.4 0L2.7 8.7a2.41 2.41 0 0 1 0-3.4l2.6-2.6a2.41 2.41 0 0 1 3.4 0Z"
+            />
+            <path
+              d="m14.5 12.5 2-2"
+            />
+            <path
+              d="m11.5 9.5 2-2"
+            />
+            <path
+              d="m8.5 6.5 2-2"
+            />
+            <path
+              d="m17.5 15.5 2-2"
+            />
+          </svg>
+           11 inch
+        </p>
+      </div>
+      <div>
+        <div
+          class="flex gap-2"
+        >
+          <svg
+            class="lucide lucide-user"
+            fill="none"
+            height="24"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"
+            />
+            <circle
+              cx="12"
+              cy="7"
+              r="4"
+            />
+          </svg>
+           Daniel Radcliffe
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

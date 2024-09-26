@@ -5,7 +5,7 @@ import { useSearchCards } from "../../services/hooks/useSearchWizard";
 import { WizardCharacter } from "../../utils/types";
 
 const CardList = () => {
-  const { data, isLoading, error } = useSearchCards();
+  const { data, isLoading } = useSearchCards();
   const wizards = data as WizardCharacter[];
 
   if (isLoading) {
